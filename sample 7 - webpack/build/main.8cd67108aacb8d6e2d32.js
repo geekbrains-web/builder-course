@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("datecalc"),document.getElementById("datecalc__result")})();
